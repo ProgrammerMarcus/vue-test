@@ -1,10 +1,10 @@
 :root {
-    --shade: #34344A;
-    --accent: #B80C09;
-    --front: #E5E7E6;
-    --secondary: #C4C4C4;
-    --highlight: #0019FF;
-    --text-l: #ffffffee;
-    --text-d: #00000055;
-    --font: Arial, Helvetica, sans-serif;
+  --shade: #34344a;
+  --accent: #b80c09;
+  --front: #fbfbfb;
+  --secondary: #c4c4c4;
+  --highlight: #0019ff;
+  --text-l: #ffffffee;
+  --text-d: #000000dd;
+  --font: Arial, Helvetica, sans-serif;
 }

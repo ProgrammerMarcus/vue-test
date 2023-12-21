@@ -9,8 +9,8 @@
 </template>
 
 <style scoped>
-  svg {
-    fill: var(--text-l);
-    align-self: center;
-  }
+svg {
+  fill: var(--text-l);
+  align-self: center;
+}
 </style>
